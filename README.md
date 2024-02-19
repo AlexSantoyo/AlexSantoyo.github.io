@@ -1,5 +1,5 @@
 # Alejandro Santoyo Home page
-
+![Profile picture](docs/img/IMG_2131.jpg)
 ## Overview
 Ph.D. in Mathematics who holds four years of working experience as Quantitative Analyst in corporate and investment banking. Trained in the modelling, development and implementation of analytical tools for valuation, calibration and hedging of financial derivatives, as well as XVAs for different kinds of underlying assets.
 
